@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Datos generados (opcionales, son pesados)
+data/raw/*.csv
